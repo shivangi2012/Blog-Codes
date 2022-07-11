@@ -5,6 +5,9 @@ library(wordcloud2)
 
 # https://www.kaggle.com/datasets/kabirnagpal/flipkart-customer-review-and-rating
 
+#check current working directory
+getwd()
+
 #set working directory
 setwd("D:/R Scripts/")
 
